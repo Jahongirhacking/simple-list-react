@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+ file:///home/jahongir/Pictures/Screenshots/Screenshot%20from%202023-01-08%2001-41-27.png
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
