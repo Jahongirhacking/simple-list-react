@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+![Screenshot from 2023-01-08 01-41-27](https://user-images.githubusercontent.com/66916141/211169675-11269b92-a6b7-4f42-aa64-17d7ae9384ef.jpg)
+The extra exercise is from Mosh Hamedani's video
 
- file:///home/jahongir/Pictures/Screenshots/Screenshot%20from%202023-01-08%2001-41-27.png
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
