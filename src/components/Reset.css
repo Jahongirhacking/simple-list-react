@@ -1,0 +1,15 @@
+button.reset {
+    background-color: #126fd2;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    border: transparent;
+    font-size: 14pt;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+button.reset:active {
+    background-color: #57a2f1;
+}

@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+body {
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(200, 200, 200, 0.3);
+    border-radius: 2px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}

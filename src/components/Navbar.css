@@ -1,0 +1,10 @@
+.nav {
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial;
+    height: 60px;
+    width: 600px;
+    margin: auto;
+}

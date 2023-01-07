@@ -1,0 +1,72 @@
+.Main {
+    text-align: center;
+    width: 600px;
+    margin: 20px auto auto;
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 120px);
+    overflow: auto;
+    padding: 20px;
+    border: solid 2px rgba(200, 200, 200, 40%);
+    border-radius: 5px;
+}
+
+.Main>.data {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: wheat;
+    border-radius: 4px;
+}
+
+.Main>.data>* {
+    display: block;
+}
+
+.Main>.data>.product__name {
+    background-color: #2db61d;
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    font-family: "Andale Mono";
+    text-overflow: ellipsis;
+    max-width: 150px;
+    overflow: hidden;
+}
+
+.Main>.data>.product__quantity {
+    font-weight: bold;
+    font-family: Arial;
+    color: #013434;
+}
+
+button.val {
+    background-color: #414141;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    border: transparent;
+    font-size: 14pt;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+button.dec, .inc {
+    width: 40px;
+}
+
+button.del {
+    background-color: red;
+}
+
+button.reset:active {
+    background-color: #57a2f1;
+}
+
+button[disabled] {
+    opacity: 60%;
+}
