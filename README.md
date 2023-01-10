@@ -1,4 +1,4 @@
-![Screenshot from 2023-01-08 01-41-27](https://user-images.githubusercontent.com/66916141/211169675-11269b92-a6b7-4f42-aa64-17d7ae9384ef.jpg)
+![Screenshot from 2023-01-08 01-41-27](Screenshot from 2023-01-11 00-57-26.jpg)
 
 The extra exercise is from Mosh Hamedani's video
 
