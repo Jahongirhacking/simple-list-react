@@ -1,4 +1,4 @@
-![Screenshot](Screenshot from 2023-01-11 00-57-26.jpg)
+
 
 The extra exercise is from Mosh Hamedani's video
 
