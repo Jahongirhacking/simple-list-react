@@ -1,4 +1,4 @@
-![Screenshot from 2023-01-08 01-41-27]([Screenshot from 2023-01-11 00-57-26.jpg](https://github.com/Jahongirhacking/simple-list-react/blob/1748dbe1a2a776945fcc7d2f35c600b6b885a32c/Screenshot%20from%202023-01-11%2000-57-26.jpg])
+![Screenshot](Screenshot from 2023-01-11 00-57-26.jpg)
 
 The extra exercise is from Mosh Hamedani's video
 
